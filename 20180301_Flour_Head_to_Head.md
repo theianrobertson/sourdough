@@ -12,19 +12,18 @@ Similar to 20171228, and running a head-to-head flour comparison comparing the m
 Same as loaf 1, but with 400g of miller's pride instead of Arva.
 
 ## Process
-- Levain started at 9:30pm Wednesday
-
+- Levain started at 9:30pm Wednesday, with the miller's pride flour.
+- Mixed in the morning
 - 30 minute autolyze
-- Mixed in salt & water, did some slap & folding (5 minutes-ish?)
+- Mixed in salt & water, did some slap & folding (3 minutes-ish on each?)
 - 4 stretch & folds within 30 minutes of each other
-- 1 more stretch & folds after 60 minutes
-- 60 more minutes, then a bit of a stretch & fold to get out of the bowl
-- Pre-shape, 40 minutes, then final shape.  Into proofing baskets.  One stayed on the counter overnight, one was on the counter for a couple of hours then into the fridge.
-- Into the oven around 5:50 am (woo babies), 20 on 20 off.
-    + Counter loaf didn't rise much in oven (expected) in the dutch oven, and I caught the lip of the pot when dropping it in because it was so saggy.
-    + Fridge loaf went into the combo cooker, and looks quite nice
+- Did a pre-shape a little over an hour later, and final shape 25 minutes after.
+- Proofed on the counter for ~3:30 until into the oven for 20-20
+- Arva loaf was not as bad as previous, but still more slack and more difficult to shape.  Stuck to the tea towel too.
 
 ## Thoughts
+- The miller's pride flour was much nicer to work with.  Arva flour was very sticky, and didn't "come together" as nicely.  Miller's pride loaf was nicer too.
+- Maybe try to lower the water for Arva even more?  It was easier to work than previously.
 
 ## Pictures
-
+- https://www.instagram.com/p/BfzI9OmF568/
