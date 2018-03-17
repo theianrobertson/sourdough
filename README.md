@@ -2,4 +2,4 @@ Just a repo where I'm storing information about bread-making, in case I lose my 
 
 &#35;MakeBreadGreatAgain
 
-![bread](bread.png?raw=true "bread")
+![bread](bread.jpg?raw=true "bread")
