@@ -24,3 +24,6 @@
 ## Notes
 - Flipping the boule over into a hot pan worked out OK.  Just sprinkled some cornmeal on the loaf, put the pan over the basket and flipped all at once.
 - Boule shaping worked well, I think I got good tension.  Batard could use some work on the shaping side.
+
+## Pictures
+- https://www.instagram.com/p/BfV08zcFRw9/
