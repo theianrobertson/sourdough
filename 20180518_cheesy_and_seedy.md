@@ -1,4 +1,4 @@
-# Not sure yet
+# One cheesy, one seedy
 
 ## Ingredients
 - 800g flour - 460 white, 150 arva, 150 ww, 40 rye
