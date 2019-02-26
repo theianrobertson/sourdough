@@ -96,3 +96,18 @@ Stretch and fold the dough three times in the bowl, at 30, 60 and 90 minutes aft
 - Slash the dough slightly off the centre line with a razor blade/sharp knife, or use scissors to snip it
 - Bake covered for 20 minutes, then uncovered for 15-20 at 450°.
 - Cool completely (or mostly) before cutting and eatin'
+
+## Starter Maintenance
+
+Typically I bake once a week.  I feed the starter in the evening, then whatever is left the next morning after
+mixing up the levain goes into the fridge in a sealed jar.  That is the starter that goes into the next
+feeding the next week.  If I'm unable to bake some week, I'll usually feed the starter anyway, throwing out
+the remainder that's not needed (i.e. I'll mix up ~40g starter from the fridge with 40g water & 40g flour, throw out
+the rest of the starter, leave the mix on the counter for 12 hours loosely covered, then back into the fridge tightly
+covered).  You can also mix the extra starter you were going to throw out into pancake/waffle batter, banana bread,
+anything else you'd put flour in.  Just reduce the amount of liquid in the recipe and adjust the mixing process.
+
+I have gone more than a week in between feedings, and the starter has been relatively OK.  I have done a couple
+of feeding cycles before baking in that case (i.e. feed, 12 hours, feed, 12 hours all at room temp), but
+not sure if it's necessary.  The ideal state would probably be to feed it twice a day every day, but I don't
+bake every day.
