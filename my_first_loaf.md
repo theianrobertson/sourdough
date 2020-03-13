@@ -4,6 +4,8 @@ This is a relatively basic white bread, and can be tweaked to your heart's conte
 
 ## Starter: t = ~ -12hr
 
+*NOTE*: if you don't have a starter from a friend, you can make your own!  There's a good recipe [here](https://www.theperfectloaf.com/7-easy-steps-making-incredible-sourdough-starter-scratch/)
+
 Sometime between dinner and bed the night before starting to bake, you should feed your starter.  When feeding the starter, use a 1:1:1 ratio (by weight) of old starter : flour : water, and a half-and-half mix of white and whole wheat flour.  Throw out the rest of the old starter (or use for sourdough pancakes).  I don't like wasting flour so I'll usually do something like 30g:30g:30g so that I'm not throwing out too much flour.  Keep the starter on the counter overnight, loosely covered.
 
 ## Levain: t = 0 (7:00 am)
